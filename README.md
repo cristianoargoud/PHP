@@ -1,4 +1,4 @@
-# Bem vindo ao Repositório - Linguagem PHP
+# Bem vindo ao Repositório - Linguagem PHP 7.4
 ---
 Este projeto foi criado para registrar a trilha de conhecimento adquiridas durante as aulas do curso PHP, este projeto pode ser utilizado como guia de consulta e/ou projeto base para novos projetos.
 
