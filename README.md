@@ -4,11 +4,11 @@ Este projeto foi criado para registrar a trilha de conhecimento adquiridas duran
 
 O objetivo deste repositório é ajudar a todos aqueles programadores que assim como eu estão em processo de aprendizagem.
 
-   * Para Acessar a Wiki [Clique Aqui](https://github.com/cristianoargoud/PHP/wiki)
-   * Para Fazer o Clone da Wiki, copie este Link: https://github.com/cristianoargoud/PHP.wiki.git
+   * Para acessar a Wiki [Clique Aqui](https://github.com/cristianoargoud/PHP/wiki)
+   * Para fazer o Clone da Wiki, copie este Link: https://github.com/cristianoargoud/PHP.wiki.git
    
 Os **Códigos** de Teste sobre a Linguagem PHP encontram-se neste Repositório:
-   * Cada Arquivo possui comentários sobre o que Cada Parte do Código faz. 
-   * Os Programas Foram feitos na IDE Visual Studio Code.
+   * Cada arquivo possui comentários sobre o que cada Parte do código faz. 
+   * Nos projetos foi utilizado a IDE Visual Studio Code.
    
 ---
