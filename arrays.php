@@ -2,10 +2,6 @@
 
 $linguagens = ["PHP", "C#", "Java"];
 
-foreach ($linguagens as $valor) {
-    echo "$valor ";
-}
-
 $linguagens2 = array("PHP", "C#", "Java");
 
 $curso = ["Curso de PHP Fundamentos", 7.4, 40, true];
